@@ -1,0 +1,52 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/dev-tools": "^0.13.72",
+    "@fortawesome/react-fontawesome": "^0.1.13",
+    "@fortawesome/react-native-fontawesome": "^0.2.6",
+    "@react-native-async-storage/async-storage": "^1.13.2",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-native-picker/picker": "^1.9.8",
+    "@react-navigation/bottom-tabs": "^5.11.8",
+    "@react-navigation/material-bottom-tabs": "^5.3.14",
+    "@react-navigation/native": "^5.8.10",
+    "@react-navigation/stack": "^5.12.8",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "expo": "~40.0.0",
+    "expo-image-picker": "^10.0.0",
+    "expo-media-library": "~10.0.0",
+    "expo-status-bar": "~1.0.3",
+    "react": "16.13.1",
+    "react-datepicker": "^3.3.0",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
+    "react-native-countdown-component": "^2.7.1",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-elements": "^3.0.1",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-geocoding": "^0.5.0",
+    "react-native-gesture-handler": "^1.8.0",
+    "react-native-get-location": "^2.0.0",
+    "react-native-google-places-autocomplete": "^2.1.2",
+    "react-native-image-picker": "^3.1.4",
+    "react-native-maps": "^0.27.1",
+    "react-native-paper": "^4.5.0",
+    "react-native-picker-select": "^8.0.4",
+    "react-native-screens": "^2.15.0",
+    "react-native-share": "^5.1.0",
+    "react-native-upload-image-expo": "^1.2.3",
+    "react-native-web": "^0.15.0"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
